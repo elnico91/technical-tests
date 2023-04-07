@@ -31,7 +31,7 @@ DB_DATABASE='<database>'
 Clonar el proyecto
 
 ```bash
-  git clone https://github.com/elnico91/bsale-technical-test.git
+  git clone https://github.com/elnico91/technical-tests.git
 
 ```
 
